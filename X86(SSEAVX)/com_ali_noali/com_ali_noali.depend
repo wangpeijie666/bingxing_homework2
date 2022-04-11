@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649144108 source:d:\bingxing\homework-x86\com_ali_noali\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<stdio.h>
+	<stdlib.h>
+

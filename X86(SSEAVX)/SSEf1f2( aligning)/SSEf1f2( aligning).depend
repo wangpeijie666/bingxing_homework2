@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649078305 source:d:\bingxing\homework-x86\ssef1f2( aligning)\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+

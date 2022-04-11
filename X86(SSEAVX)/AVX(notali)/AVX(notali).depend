@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649431795 source:d:\bingxing\homework-x86\homework2\avx(notali)\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<immintrin.h>
+

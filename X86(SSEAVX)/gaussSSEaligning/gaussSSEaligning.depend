@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649145060 source:d:\bingxing\homework-x86\gaussssealigning\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<stdio.h>
+	<stdlib.h>
+

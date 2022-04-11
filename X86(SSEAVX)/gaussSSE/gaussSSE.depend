@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649077311 source:d:\bingxing\homework-x86\gausssse\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+

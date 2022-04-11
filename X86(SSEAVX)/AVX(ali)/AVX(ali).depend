@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649438810 source:d:\bingxing\homework-x86\avx(ali)\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<stdio.h>
+	<stdlib.h>
+
+1649439162 source:d:\bingxing\homework-x86\homework2\avx(ali)\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<stdio.h>
+	<stdlib.h>
+
